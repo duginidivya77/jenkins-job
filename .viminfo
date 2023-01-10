@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q
+|2,0,1673333710,,"q"
 :wq
 |2,0,1673274773,,"wq"
 
@@ -23,16 +25,31 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"i	CHAR	0
+	€kb€kr€kr
+|3,0,18,0,1,0,1673333561,"€kb€kr€kr"
 
 # File marks:
-'0  1  13  /git/project/file2.html
-|4,48,1,13,1673274773,"/git/project/file2.html"
+'0  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,48,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+'1  1  13  /git/project/file2.html
+|4,49,1,13,1673274773,"/git/project/file2.html"
 
 # Jumplist (newest first):
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  1  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,1,0,1673333446,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  1  13  /git/project/file2.html
+|4,39,1,13,1673274773,"/git/project/file2.html"
 -'  1  13  /git/project/file2.html
 |4,39,1,13,1673274773,"/git/project/file2.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+	*	1673333702	0
+	"	469	0
 
 > /git/project/file2.html
 	*	1673274768	0
