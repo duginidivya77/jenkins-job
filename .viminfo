@@ -11,10 +11,12 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1674143037,,"wq!"
+:wq
+|2,0,1674104288,,"wq"
 :q
 |2,0,1673333710,,"q"
-:wq
-|2,0,1673274773,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -28,24 +30,249 @@
 "i	CHAR	0
 	€kb€kr€kr
 |3,0,18,0,1,0,1673333561,"€kb€kr€kr"
+""-	CHAR	0
+	#
+|3,1,36,0,1,0,1674101869,"#"
 
 # File marks:
-'0  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
-|4,48,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
-'1  1  13  /git/project/file2.html
-|4,49,1,13,1673274773,"/git/project/file2.html"
+'0  11  19  /var/lib/jenkins/config.xml
+|4,48,11,19,1674143037,"/var/lib/jenkins/config.xml"
+'1  7  19  /var/lib/jenkins/config.xml
+|4,49,7,19,1674142269,"/var/lib/jenkins/config.xml"
+'2  7  19  /var/lib/jenkins/config.xml
+|4,50,7,19,1674142269,"/var/lib/jenkins/config.xml"
+'3  55  0  /etc/profile
+|4,51,55,0,1674112600,"/etc/profile"
+'4  54  75  /etc/profile
+|4,52,54,75,1674110236,"/etc/profile"
+'5  54  75  /etc/profile
+|4,53,54,75,1674109857,"/etc/profile"
+'6  55  31  /etc/profile
+|4,54,55,31,1674104379,"/etc/profile"
+'7  55  31  /etc/profile
+|4,55,55,31,1674104379,"/etc/profile"
+'8  55  31  /etc/profile
+|4,56,55,31,1674104379,"/etc/profile"
+'9  55  31  /etc/profile
+|4,57,55,31,1674104379,"/etc/profile"
 
 # Jumplist (newest first):
+-'  11  19  /var/lib/jenkins/config.xml
+|4,39,11,19,1674143037,"/var/lib/jenkins/config.xml"
+-'  7  19  /var/lib/jenkins/config.xml
+|4,39,7,19,1674143011,"/var/lib/jenkins/config.xml"
+-'  7  19  /var/lib/jenkins/config.xml
+|4,39,7,19,1674142269,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1674142213,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1674142213,"/var/lib/jenkins/config.xml"
+-'  55  0  /etc/profile
+|4,39,55,0,1674112600,"/etc/profile"
+-'  55  0  /etc/profile
+|4,39,55,0,1674112600,"/etc/profile"
+-'  55  0  /etc/profile
+|4,39,55,0,1674112600,"/etc/profile"
+-'  55  0  /etc/profile
+|4,39,55,0,1674112600,"/etc/profile"
+-'  54  75  /etc/profile
+|4,39,54,75,1674110236,"/etc/profile"
+-'  54  75  /etc/profile
+|4,39,54,75,1674110236,"/etc/profile"
+-'  54  75  /etc/profile
+|4,39,54,75,1674110236,"/etc/profile"
+-'  54  75  /etc/profile
+|4,39,54,75,1674110236,"/etc/profile"
+-'  54  75  /etc/profile
+|4,39,54,75,1674109857,"/etc/profile"
+-'  54  75  /etc/profile
+|4,39,54,75,1674109857,"/etc/profile"
+-'  54  75  /etc/profile
+|4,39,54,75,1674109857,"/etc/profile"
+-'  54  75  /etc/profile
+|4,39,54,75,1674109857,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674109825,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674109825,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674109825,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674109825,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674109825,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674109825,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674109825,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674109825,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674104379,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674104379,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674104379,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674104379,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674104288,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674104288,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674104288,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674104288,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674104185,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674102160,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674102160,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674102160,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674102160,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674102160,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674102160,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674102160,"/etc/profile"
+-'  55  31  /etc/profile
+|4,39,55,31,1674102160,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101968,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101968,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101968,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101968,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101902,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101902,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101902,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101902,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101857,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101857,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101857,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1674101857,"/etc/profile"
 -'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
 |4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
--'  1  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
-|4,39,1,0,1673333446,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
--'  1  13  /git/project/file2.html
-|4,39,1,13,1673274773,"/git/project/file2.html"
--'  1  13  /git/project/file2.html
-|4,39,1,13,1673274773,"/git/project/file2.html"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
+-'  469  0  ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
+|4,39,469,0,1673333710,"~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt"
 
 # History of marks within files (newest to oldest):
+
+> /var/lib/jenkins/config.xml
+	*	1674143033	0
+	"	11	19
+	^	11	20
+	.	11	19
+	+	7	19
+	+	11	19
+
+> /etc/profile
+	*	1674101869	0
+	"	55	0
+	.	55	0
+	+	55	0
 
 > ~/project/DevOps_ClassNotes/GIT/GIT_NOTES.txt
 	*	1673333702	0
